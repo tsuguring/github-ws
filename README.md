@@ -1,7 +1,7 @@
 # GitHub WorkShop Hans-on
 1. VsCodeを用いてclone add commit push
 
-2. Github tsuguringブランチを作成
+2. VsCodeを用いてGithub tsuguringブランチを作成
 
 3. tsuguringブランチをpullrequest
 
